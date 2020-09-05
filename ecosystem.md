@@ -19,7 +19,7 @@
 
 | 项目地址 | 平台 | 核心作者 | 备注 |
 | --- | --- | --- | --- |
-| [richardchien/coolq-http-api/](https://github.com/richardchien/coolq-http-api) | CKYU | richardchien | 可在 Mirai 平台使用 [mirai-native](https://github.com/iTXTech/mirai-native) 加载 |
+| [richardchien/coolq-http-api](https://github.com/richardchien/coolq-http-api) | CKYU | richardchien | 可在 Mirai 平台使用 [mirai-native](https://github.com/iTXTech/mirai-native) 加载 |
 | [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) | MiraiGo | Mrs4s |  |
 | [yyuueexxiinngg/cqhttp-mirai](https://github.com/yyuueexxiinngg/cqhttp-mirai) | Mirai | yyuueexxiinngg |  |
 
@@ -38,7 +38,7 @@
 | Python | HTTP,<br>反向 WS | [nonebot/nonebot](https://github.com/nonebot/nonebot) | richardchien<br>yanyongyu |
 | Python | HTTP,<br>反向 WS | [nonebot/aiocqhttp](https://github.com/nonebot/aiocqhttp) | richardchien |
 | Node.js | 正向 WS | [momocow/node-cq-websocket](https://github.com/momocow/node-cq-websocket) | momocow |
-| Node.js | HTTP,<br>正向 WS | [koishijs/koishi](https://github.com/koishijs/koishi) | Shigma |
+| Node.js | HTTP,<br>正向 WS,<br>反向 WS | [koishijs/koishi](https://github.com/koishijs/koishi) | Shigma |
 | Node.js | 正向 WS | [CaoMeiYouRen/node-coolq-robot](https://github.com/CaoMeiYouRen/node-coolq-robot) | CaoMeiYouRen |
 | Node.js | HTTP | [XHMM/lemon-bot](https://github.com/XHMM/lemon-bot) | XHMM |
 | JavaScript | 正向 WS | [pandolia/js-bot](https://github.com/pandolia/js-bot) | pandolia |
